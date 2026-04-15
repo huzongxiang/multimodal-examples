@@ -1,0 +1,14 @@
+{
+  "num_step_records": 313,
+  "num_epoch_records": 1,
+  "early_stopped": false,
+  "best_model_path": null,
+  "first_step_loss": 1.7657530307769775,
+  "last_step_loss": 0.2741124927997589,
+  "last_step_cuda_max_allocated_mb": 459.74,
+  "first_epoch_mean_loss": 0.3723459810304185,
+  "last_epoch_mean_loss": 0.3723459810304185,
+  "best_epoch": 1,
+  "best_epoch_mean_loss": 0.3723459810304185,
+  "last_epoch_seconds": 6.187291860580444
+}

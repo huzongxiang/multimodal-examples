@@ -1,0 +1,23 @@
+{
+  "dataset": "D:\\codex\\mllm-demo\\output\\part4\\eval_sample_input.jsonl",
+  "num_samples": 18,
+  "tasks": {
+    "caption": {
+      "count": 6,
+      "exact_match": 0.16666666666666666,
+      "token_f1": 0.7964257964257965
+    },
+    "object_detection": {
+      "count": 6,
+      "json_parse_success": 1.0,
+      "object_count_accuracy": 0.8333333333333334,
+      "label_accuracy": 1.0,
+      "bbox_iou": 0.8594678399214285
+    },
+    "vqa": {
+      "count": 6,
+      "exact_match": 1.0,
+      "token_f1": 1.0
+    }
+  }
+}

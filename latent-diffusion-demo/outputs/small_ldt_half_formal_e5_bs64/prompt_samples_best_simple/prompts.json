@@ -1,0 +1,66 @@
+[
+  {
+    "prompt": "woman portrait",
+    "seed": 201,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "01_woman_portrait.png"
+  },
+  {
+    "prompt": "cyberpunk city",
+    "seed": 202,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "02_cyberpunk_city.png"
+  },
+  {
+    "prompt": "living room",
+    "seed": 203,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "03_living_room.png"
+  },
+  {
+    "prompt": "fantasy character",
+    "seed": 204,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "04_fantasy_character.png"
+  },
+  {
+    "prompt": "skincare product",
+    "seed": 205,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "05_skincare_product.png"
+  },
+  {
+    "prompt": "sloth sticker",
+    "seed": 206,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "06_sloth_sticker.png"
+  },
+  {
+    "prompt": "ocean waves",
+    "seed": 207,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "07_ocean_waves.png"
+  },
+  {
+    "prompt": "logo symbol",
+    "seed": 208,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "08_logo_symbol.png"
+  }
+]

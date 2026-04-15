@@ -1,0 +1,66 @@
+[
+  {
+    "prompt": "cinematic portrait of a young woman in soft golden light, detailed face, shallow depth of field",
+    "seed": 101,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "01_cinematic_portrait_of_a_young_woman_in_soft_golden_light_detaile.png"
+  },
+  {
+    "prompt": "cyberpunk city street at night, neon reflections on wet pavement, atmospheric concept art",
+    "seed": 102,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "02_cyberpunk_city_street_at_night_neon_reflections_on_wet_pavement_.png"
+  },
+  {
+    "prompt": "cozy modern living room with warm sunlight, clean interior design photo",
+    "seed": 103,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "03_cozy_modern_living_room_with_warm_sunlight_clean_interior_design.png"
+  },
+  {
+    "prompt": "fantasy adventurer character sheet, full body concept art, clean background",
+    "seed": 104,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "04_fantasy_adventurer_character_sheet_full_body_concept_art_clean_b.png"
+  },
+  {
+    "prompt": "premium skincare product on a pastel studio set, commercial product photography",
+    "seed": 105,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "05_premium_skincare_product_on_a_pastel_studio_set_commercial_produ.png"
+  },
+  {
+    "prompt": "cute scientist sloth sticker, white background, glossy illustration",
+    "seed": 106,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "06_cute_scientist_sloth_sticker_white_background_glossy_illustratio.png"
+  },
+  {
+    "prompt": "dreamy turquoise ocean waves, painterly seascape, soft morning light",
+    "seed": 107,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "07_dreamy_turquoise_ocean_waves_painterly_seascape_soft_morning_lig.png"
+  },
+  {
+    "prompt": "futuristic emblem logo, centered composition, sharp graphic design",
+    "seed": 108,
+    "num_imgs": 4,
+    "class_guidance": 5.0,
+    "n_iter": 20,
+    "file": "08_futuristic_emblem_logo_centered_composition_sharp_graphic_design.png"
+  }
+]

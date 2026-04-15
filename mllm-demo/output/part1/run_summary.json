@@ -1,0 +1,12 @@
+﻿{
+    "best_epoch":  49,
+    "loss_curve_path":  "D:\\codex\\mllm-demo\\output\\part1\\loss_curve.png",
+    "best_epoch_loss":  0.55657995882630351,
+    "final_epoch_loss":  0.561619370430708,
+    "global_step":  25000,
+    "losses_path":  "D:\\codex\\mllm-demo\\output\\part1\\losses.json",
+    "final_model_path":  "D:\\codex\\mllm-demo\\output\\part1\\mini_vlm_full.pt",
+    "completed_epochs":  50,
+    "best_monitor_value":  0.5565799588263035,
+    "metrics_path":  "D:\\codex\\mllm-demo\\output\\part1\\metrics.jsonl"
+}

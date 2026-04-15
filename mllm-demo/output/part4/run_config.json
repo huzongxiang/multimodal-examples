@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-04-15T03:21:00",
+  "train_jsonl": "D:\\codex\\mllm-demo\\data\\repo\\part4_multitask\\train.jsonl",
+  "eval_jsonl": "",
+  "output_dir": "D:\\codex\\mllm-demo\\output\\part4",
+  "checkpoint_path": "D:\\codex\\mllm-demo\\output\\part4\\training_checkpoint.pt",
+  "init_from": "D:\\codex\\mllm-demo\\output\\part1_for_part4",
+  "vision_model": "google/vit-base-patch16-224",
+  "lm_model": "HuggingFaceTB/SmolLM-135M",
+  "epochs": 50,
+  "batch_size": 4,
+  "lr": 0.0001,
+  "max_length": 256,
+  "seed": 42,
+  "device": "cuda",
+  "dataset_size": 2400,
+  "freeze_vision": true
+}

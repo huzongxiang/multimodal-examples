@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-04-14T21:44:36",
+  "train_jsonl": "D:\\codex\\mllm-demo\\data\\repo\\part2_animals_od\\train\\data.jsonl",
+  "eval_jsonl": "",
+  "output_dir": "D:\\codex\\mllm-demo\\output\\part2",
+  "checkpoint_path": "D:\\codex\\mllm-demo\\output\\part2\\training_checkpoint.pt",
+  "init_from": "D:\\codex\\mllm-demo\\output\\part1",
+  "vision_model": "google/vit-large-patch16-224",
+  "lm_model": "HuggingFaceTB/SmolLM-360M",
+  "epochs": 50,
+  "batch_size": 4,
+  "lr": 0.0001,
+  "max_length": 256,
+  "seed": 42,
+  "device": "cuda",
+  "dataset_size": 800,
+  "freeze_vision": true
+}

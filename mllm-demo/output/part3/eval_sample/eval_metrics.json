@@ -1,0 +1,11 @@
+{
+  "dataset": "D:\\codex\\mllm-demo\\output\\part3\\eval_sample_input.jsonl",
+  "num_samples": 12,
+  "tasks": {
+    "vqa": {
+      "count": 12,
+      "exact_match": 0.3333333333333333,
+      "token_f1": 0.3333333333333333
+    }
+  }
+}

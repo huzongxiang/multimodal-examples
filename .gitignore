@@ -1,0 +1,62 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.conda-envs/
+.venv/
+venv/
+env/
+
+# Local runtime/config cache
+.mplconfig/
+.mplconfig_plot/
+mpl_test/
+
+# Training/runtime artifacts
+wandb/
+**/wandb/
+checkpoints/
+**/checkpoints/
+
+# Datasets and large preprocessed features
+data/
+**/data/
+*.npy
+*.npz
+*.hdf5
+*.h5
+*.parquet
+*.tar
+*.zip
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+
+# Keep result folders, but exclude heavyweight files inside them
+output/**/training_checkpoint.pt
+output/**/mini_vlm_full.pt
+outputs/**/weights/
+outputs/**/best_model.pth
+outputs/**/last_checkpoint.pth
+outputs/**/checkpoint_step_*.pth
+**/train_stdout.log
+**/train_stderr.log
+
+# Misc large binaries
+*.dll
+*.lib
+*.pyd

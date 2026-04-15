@@ -1,0 +1,14 @@
+{
+  "num_step_records": 79,
+  "num_epoch_records": 1,
+  "early_stopped": false,
+  "best_model_path": "D:\\codex\\multimodal-examples\\outputs\\probe_minimum_e1_bs64\\best_model.pth",
+  "first_step_loss": 1.8804961442947388,
+  "last_step_loss": 0.25622856616973877,
+  "last_step_cuda_max_allocated_mb": 4187.01,
+  "first_epoch_mean_loss": 0.6694114600555806,
+  "last_epoch_mean_loss": 0.6694114600555806,
+  "best_epoch": 1,
+  "best_epoch_mean_loss": 0.6694114600555806,
+  "last_epoch_seconds": 4.92073392868042
+}

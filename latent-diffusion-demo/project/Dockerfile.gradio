@@ -1,0 +1,11 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y git
+
+COPY tld/gradio_app.py /app/tld/gradio_app.py
+
+RUN pip install gradio Pillow
+
+CMD ["python", "tld/gradio_app.py"]

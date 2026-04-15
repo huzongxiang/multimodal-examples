@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-04-14T19:55:41",
+  "train_jsonl": "D:\\codex\\mllm-demo\\data\\repo\\part1_flickr8k\\train.jsonl",
+  "eval_jsonl": "",
+  "output_dir": "D:\\codex\\mllm-demo\\output\\part1",
+  "checkpoint_path": "D:\\codex\\mllm-demo\\output\\part1\\training_checkpoint.pt",
+  "init_from": "",
+  "vision_model": "google/vit-large-patch16-224",
+  "lm_model": "HuggingFaceTB/SmolLM-360M",
+  "epochs": 50,
+  "batch_size": 4,
+  "lr": 0.0002,
+  "max_length": 64,
+  "seed": 42,
+  "device": "cuda",
+  "dataset_size": 2000,
+  "freeze_vision": true
+}

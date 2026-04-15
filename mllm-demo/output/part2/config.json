@@ -1,0 +1,7 @@
+{
+  "vision_model_name": "google/vit-large-patch16-224",
+  "lm_model_name": "HuggingFaceTB/SmolLM-360M",
+  "vision_dim": 1024,
+  "language_dim": 960,
+  "freeze_vision": true
+}

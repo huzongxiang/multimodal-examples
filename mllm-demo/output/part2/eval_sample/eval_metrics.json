@@ -1,0 +1,13 @@
+{
+  "dataset": "D:\\codex\\mllm-demo\\output\\part2\\eval_sample_input.jsonl",
+  "num_samples": 12,
+  "tasks": {
+    "object_detection": {
+      "count": 12,
+      "json_parse_success": 1.0,
+      "object_count_accuracy": 0.9166666666666666,
+      "label_accuracy": 0.7916666666666666,
+      "bbox_iou": 0.4077923110209721
+    }
+  }
+}

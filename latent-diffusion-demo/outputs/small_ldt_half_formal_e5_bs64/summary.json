@@ -1,0 +1,14 @@
+{
+  "num_step_records": 23430,
+  "num_epoch_records": 5,
+  "early_stopped": false,
+  "best_model_path": "outputs\\small_ldt_half_formal_e5_bs64\\best_model.pth",
+  "first_step_loss": 3.1687405109405518,
+  "last_step_loss": 0.09384030103683472,
+  "last_step_cuda_max_allocated_mb": 10160.86,
+  "first_epoch_mean_loss": 0.22578220616674707,
+  "last_epoch_mean_loss": 0.11155181917283609,
+  "best_epoch": 5,
+  "best_epoch_mean_loss": 0.11155181917283609,
+  "last_epoch_seconds": 1871.3815867900848
+}
