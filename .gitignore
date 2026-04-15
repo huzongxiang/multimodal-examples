@@ -60,3 +60,10 @@ outputs/**/checkpoint_step_*.pth
 *.dll
 *.lib
 *.pyd
+
+# Local secrets and runtime artifacts for rag-retrieval example
+rag-retrieval/colpali-milvus-multimodal-rag-master/.env
+rag-retrieval/colpali-milvus-multimodal-rag-master/milvus_*.db
+rag-retrieval/colpali-milvus-multimodal-rag-master/models/
+rag-retrieval/colpali-milvus-multimodal-rag-master/pages/
+rag-retrieval/colpali-milvus-multimodal-rag-master/outputs/
